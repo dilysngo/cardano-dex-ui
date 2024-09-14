@@ -1,0 +1,1790 @@
+[
+  {
+    "name": "Cardano Cat",
+    "id": "cebbd6a8ca954b7fc7a346d0baed4182e0358059f38065de279fb82243617264616e6f20436174",
+    "decimals": 0,
+    "ticker": "Cardano Cat",
+    "icon": "https://spectrum.fi/logos/cardano/cebbd6a8ca954b7fc7a346d0baed4182e0358059f38065de279fb82243617264616e6f20436174.webp",
+    "data": {
+      "policyId": "cebbd6a8ca954b7fc7a346d0baed4182e0358059f38065de279fb822",
+      "name": "Cardano Cat",
+      "nameHex": "4b43617264616e6f20436174"
+    }
+  },
+  {
+    "name": "SPF",
+    "id": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75535046",
+    "decimals": 6,
+    "ticker": "SPF",
+    "icon": "https://spectrum.fi/logos/cardano/09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75535046.webp",
+    "data": {
+      "policyId": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75",
+      "name": "SPF",
+      "nameHex": "43535046"
+    }
+  },
+  {
+    "name": "Snek",
+    "id": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+    "decimals": 0,
+    "ticker": "SNEK",
+    "icon": "https://spectrum.fi/logos/cardano/279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b.webp",
+    "data": {
+      "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
+      "name": "SNEK",
+      "nameHex": "44534e454b"
+    }
+  },
+  {
+    "name": "Shen USD",
+    "id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
+    "decimals": 6,
+    "ticker": "SHEN",
+    "icon": "https://spectrum.fi/logos/cardano/8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344.webp",
+    "data": {
+      "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
+      "name": "ShenMicroUSD",
+      "nameHex": "4c5368656e4d6963726f555344"
+    }
+  },
+  {
+    "name": "IAGON",
+    "id": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
+    "decimals": 6,
+    "ticker": "IAG",
+    "icon": "https://spectrum.fi/logos/cardano/5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147.webp",
+    "data": {
+      "policyId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114",
+      "name": "IAG",
+      "nameHex": "43494147"
+    }
+  },
+  {
+    "name": "KITUP",
+    "id": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550",
+    "decimals": 0,
+    "ticker": "KITUP",
+    "icon": "https://spectrum.fi/logos/cardano/b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550.webp",
+    "data": {
+      "policyId": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f408",
+      "name": "KITUP",
+      "nameHex": "454b49545550"
+    }
+  },
+  {
+    "name": "DGAF",
+    "id": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d921520664676166",
+    "decimals": 0,
+    "ticker": "DGAF",
+    "icon": "https://spectrum.fi/logos/cardano/64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d921520664676166.webp",
+    "data": {
+      "policyId": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d9215206",
+      "name": "dgaf",
+      "nameHex": "4464676166"
+    }
+  },
+  {
+    "name": "MAYZ",
+    "id": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+    "decimals": 6,
+    "ticker": "MAYZ",
+    "icon": "https://spectrum.fi/logos/cardano/9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a.webp",
+    "data": {
+      "policyId": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e564683",
+      "name": "MAYZ",
+      "nameHex": "444d41595a"
+    }
+  },
+  {
+    "name": "TOOL",
+    "id": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
+    "decimals": 0,
+    "ticker": "TOOL",
+    "icon": "https://spectrum.fi/logos/cardano/ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255.webp",
+    "data": {
+      "policyId": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
+      "name": "TSURU",
+      "nameHex": "455453555255"
+    }
+  },
+  {
+    "name": "Dong",
+    "id": "141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9446f6e67",
+    "decimals": 0,
+    "ticker": "Dong",
+    "icon": "https://spectrum.fi/logos/cardano/141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9446f6e67.webp",
+    "data": {
+      "policyId": "141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9",
+      "name": "Dong",
+      "nameHex": "44446f6e67"
+    }
+  },
+  {
+    "name": "RICH",
+    "id": "32569e3583d126fc5f3bd1f44d9e09bde77542d762c3796fa551fc6052314348",
+    "decimals": 0,
+    "ticker": "RICH",
+    "icon": "https://spectrum.fi/logos/cardano/32569e3583d126fc5f3bd1f44d9e09bde77542d762c3796fa551fc6052314348.webp",
+    "data": {
+      "policyId": "32569e3583d126fc5f3bd1f44d9e09bde77542d762c3796fa551fc60",
+      "name": "R1CH",
+      "nameHex": "4452314348"
+    }
+  },
+  {
+    "name": "BET",
+    "id": "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f4149",
+    "decimals": 0,
+    "ticker": "BET",
+    "icon": "https://spectrum.fi/logos/cardano/d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f4149.webp",
+    "data": {
+      "policyId": "d542ad1dc269ae601125e8259cb8427c6b37c1d3569d10441df0291f",
+      "name": "AI",
+      "nameHex": "424149"
+    }
+  },
+  {
+    "name": "COBRA KING",
+    "id": "b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642434f42",
+    "decimals": 0,
+    "ticker": "COB",
+    "icon": "https://spectrum.fi/logos/cardano/b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642434f42.webp",
+    "data": {
+      "policyId": "b01cd2dffad5d6e840d7420b3e09154a96c796bbd9a57bb3455ba642",
+      "name": "COB",
+      "nameHex": "43434f42"
+    }
+  },
+  {
+    "name": "TrenchQuest",
+    "id": "a828473e3a338fcbdaa209ad676a06a76540ea48f604fa97f26cd5525472656e63685175657374",
+    "decimals": 0,
+    "ticker": "TrenchQuest",
+    "icon": "https://spectrum.fi/logos/cardano/a828473e3a338fcbdaa209ad676a06a76540ea48f604fa97f26cd5525472656e63685175657374.webp",
+    "data": {
+      "policyId": "a828473e3a338fcbdaa209ad676a06a76540ea48f604fa97f26cd552",
+      "name": "TrenchQuest",
+      "nameHex": "4b5472656e63685175657374"
+    }
+  },
+  {
+    "name": "rsERG",
+    "id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+    "decimals": 9,
+    "ticker": "rsERG",
+    "icon": "https://spectrum.fi/logos/cardano/04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247.webp",
+    "data": {
+      "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
+      "name": "rsERG",
+      "nameHex": "457273455247"
+    }
+  },
+  {
+    "name": "rsRSN",
+    "id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14727352534e",
+    "decimals": 3,
+    "ticker": "rsRSN",
+    "icon": "https://spectrum.fi/logos/cardano/04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14727352534e.webp",
+    "data": {
+      "policyId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
+      "name": "rsRSN",
+      "nameHex": "45727352534e"
+    }
+  },
+  {
+    "name": "BOB-BILDO",
+    "id": "914dc53a5ec86c9c003b0ac0173115aebe0e05aa8f305aa0c8104bf6424f422d42494c444f",
+    "decimals": 0,
+    "ticker": "BOB-BILDO",
+    "icon": "https://spectrum.fi/logos/cardano/914dc53a5ec86c9c003b0ac0173115aebe0e05aa8f305aa0c8104bf6424f422d42494c444f.webp",
+    "data": {
+      "policyId": "914dc53a5ec86c9c003b0ac0173115aebe0e05aa8f305aa0c8104bf6",
+      "name": "BOB-BILDO",
+      "nameHex": "49424f422d42494c444f"
+    }
+  },
+  {
+    "name": "Timmy ",
+    "id": "f7ec61b6c39109436f7a29cb61ad010d699022807f45ada367953cda54696d6d7920",
+    "decimals": 0,
+    "ticker": "Timmy ",
+    "icon": "https://spectrum.fi/logos/cardano/f7ec61b6c39109436f7a29cb61ad010d699022807f45ada367953cda54696d6d7920.webp",
+    "data": {
+      "policyId": "f7ec61b6c39109436f7a29cb61ad010d699022807f45ada367953cda",
+      "name": "Timmy ",
+      "nameHex": "4654696d6d7920"
+    }
+  },
+  {
+    "name": "ADADOG",
+    "id": "f13589b520f54ec8646ba53c9098d691f532b608b9e7946548feaec7414441444f47",
+    "decimals": 0,
+    "ticker": "ADADOG",
+    "icon": "https://spectrum.fi/logos/cardano/f13589b520f54ec8646ba53c9098d691f532b608b9e7946548feaec7414441444f47.webp",
+    "data": {
+      "policyId": "f13589b520f54ec8646ba53c9098d691f532b608b9e7946548feaec7",
+      "name": "ADADOG",
+      "nameHex": "46414441444f47"
+    }
+  },
+  {
+    "name": "COPE",
+    "id": "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434f5045",
+    "decimals": 0,
+    "ticker": "COPE",
+    "icon": "https://spectrum.fi/logos/cardano/0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f434f5045.webp",
+    "data": {
+      "policyId": "0b3518ac0f78ced3de283dce6c997228cff2b07c283a16530efd700f",
+      "name": "COPE",
+      "nameHex": "44434f5045"
+    }
+  },
+  {
+    "name": "Book of Snek",
+    "id": "f888ac57cdd06d5038c2d460aad2e44330d77f0754339efa974f0aa0426f6f6b206f6620536e656b",
+    "decimals": 0,
+    "ticker": "Book of Snek",
+    "icon": "https://spectrum.fi/logos/cardano/f888ac57cdd06d5038c2d460aad2e44330d77f0754339efa974f0aa0426f6f6b206f6620536e656b.webp",
+    "data": {
+      "policyId": "f888ac57cdd06d5038c2d460aad2e44330d77f0754339efa974f0aa0",
+      "name": "Book of Snek",
+      "nameHex": "4c426f6f6b206f6620536e656b"
+    }
+  },
+  {
+    "name": "BUDZ",
+    "id": "27fa5cc3d1c2ed825f799ee41c04621d8b6703d86e66390748e7b2484255445a",
+    "decimals": 0,
+    "ticker": "BUDZ",
+    "icon": "https://spectrum.fi/logos/cardano/27fa5cc3d1c2ed825f799ee41c04621d8b6703d86e66390748e7b2484255445a.webp",
+    "data": {
+      "policyId": "27fa5cc3d1c2ed825f799ee41c04621d8b6703d86e66390748e7b248",
+      "name": "BUDZ",
+      "nameHex": "444255445a"
+    }
+  },
+  {
+    "name": "Snekdog",
+    "id": "d98b6eeb448c473a6bc900f91e2a650286cc4f99bc5af111f31325da536e656b646f67",
+    "decimals": 0,
+    "ticker": "Snekdog",
+    "icon": "https://spectrum.fi/logos/cardano/d98b6eeb448c473a6bc900f91e2a650286cc4f99bc5af111f31325da536e656b646f67.webp",
+    "data": {
+      "policyId": "d98b6eeb448c473a6bc900f91e2a650286cc4f99bc5af111f31325da",
+      "name": "Snekdog",
+      "nameHex": "47536e656b646f67"
+    }
+  },
+  {
+    "name": "MESSI",
+    "id": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba4d45535349",
+    "decimals": 6,
+    "ticker": "MESSI",
+    "icon": "https://spectrum.fi/logos/cardano/4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba4d45535349.webp",
+    "data": {
+      "policyId": "4981b9bdaf6477b21b8c88a03041a4f365915b6dbe29e2dd714586ba",
+      "name": "MESSI",
+      "nameHex": "454d45535349"
+    }
+  },
+  {
+    "name": "Bucket",
+    "id": "4ef5b24b703417ea70108662833a0d1e077ccbd32407aba95482749f4275636b6574",
+    "decimals": 0,
+    "ticker": "Bucket",
+    "icon": "https://spectrum.fi/logos/cardano/4ef5b24b703417ea70108662833a0d1e077ccbd32407aba95482749f4275636b6574.webp",
+    "data": {
+      "policyId": "4ef5b24b703417ea70108662833a0d1e077ccbd32407aba95482749f",
+      "name": "Bucket",
+      "nameHex": "464275636b6574"
+    }
+  },
+  {
+    "name": "OPTIMiz",
+    "id": "fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e44f5054494d697a",
+    "decimals": 6,
+    "ticker": "OPTIMiz",
+    "icon": "https://spectrum.fi/logos/cardano/fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e44f5054494d697a.webp",
+    "data": {
+      "policyId": "fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e4",
+      "name": "OPTIMiz",
+      "nameHex": "474f5054494d697a"
+    }
+  },
+  {
+    "name": "Hyena Coin",
+    "id": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e485943",
+    "decimals": 0,
+    "ticker": "HYC",
+    "icon": "https://spectrum.fi/logos/cardano/6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e485943.webp",
+    "data": {
+      "policyId": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e",
+      "name": "HYC",
+      "nameHex": "43485943"
+    }
+  },
+  {
+    "name": "LocoWifCoco",
+    "id": "78b399b33aea1bde8bcf386ad6e600dbd458a57104e3901e583519dc4c6f636f576966436f636f",
+    "decimals": 0,
+    "ticker": "LocoWifCoco",
+    "icon": "https://spectrum.fi/logos/cardano/78b399b33aea1bde8bcf386ad6e600dbd458a57104e3901e583519dc4c6f636f576966436f636f.webp",
+    "data": {
+      "policyId": "78b399b33aea1bde8bcf386ad6e600dbd458a57104e3901e583519dc",
+      "name": "LocoWifCoco",
+      "nameHex": "4b4c6f636f576966436f636f"
+    }
+  },
+  {
+    "name": "MarketRaker AI",
+    "id": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
+    "decimals": 0,
+    "ticker": "RAKER",
+    "icon": "https://spectrum.fi/logos/cardano/ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552.webp",
+    "data": {
+      "policyId": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602",
+      "name": "RAKER",
+      "nameHex": "4552414b4552"
+    }
+  },
+  {
+    "name": "USA",
+    "id": "b9ae7e3566ad889aae93f500746869e7b3c71480329acd0a9bc01652555341",
+    "decimals": 0,
+    "ticker": "USA",
+    "icon": "https://spectrum.fi/logos/cardano/b9ae7e3566ad889aae93f500746869e7b3c71480329acd0a9bc01652555341.webp",
+    "data": {
+      "policyId": "b9ae7e3566ad889aae93f500746869e7b3c71480329acd0a9bc01652",
+      "name": "USA",
+      "nameHex": "43555341"
+    }
+  },
+  {
+    "name": "TETE",
+    "id": "3a32195452d710cd6134e737fb9ab7152c042c27fce69a4dcf847cef54455445",
+    "decimals": 0,
+    "ticker": "TETE",
+    "icon": "https://spectrum.fi/logos/cardano/3a32195452d710cd6134e737fb9ab7152c042c27fce69a4dcf847cef54455445.png",
+    "data": {
+      "policyId": "3a32195452d710cd6134e737fb9ab7152c042c27fce69a4dcf847cef",
+      "name": "TETE",
+      "nameHex": "4454455445"
+    }
+  },
+  {
+    "name": "Big Hosk",
+    "id": "39858e3285906db8ba7c24c59e6e3cb04292b12fb4247da6a307b79e42696720486f736b",
+    "decimals": 0,
+    "ticker": "Big Hosk",
+    "icon": "https://spectrum.fi/logos/cardano/39858e3285906db8ba7c24c59e6e3cb04292b12fb4247da6a307b79e42696720486f736b.webp",
+    "data": {
+      "policyId": "39858e3285906db8ba7c24c59e6e3cb04292b12fb4247da6a307b79e",
+      "name": "Big Hosk",
+      "nameHex": "4842696720486f736b"
+    }
+  },
+  {
+    "name": "Bjorn",
+    "id": "482042302b7d33ce414b7cdf4fb4d96c4d7c6555201b570e162a7ae4426a6f726e",
+    "decimals": 0,
+    "ticker": "Bjorn",
+    "icon": "https://spectrum.fi/logos/cardano/482042302b7d33ce414b7cdf4fb4d96c4d7c6555201b570e162a7ae4426a6f726e.webp",
+    "data": {
+      "policyId": "482042302b7d33ce414b7cdf4fb4d96c4d7c6555201b570e162a7ae4",
+      "name": "Bjorn",
+      "nameHex": "45426a6f726e"
+    }
+  },
+  {
+    "name": "ADAcat",
+    "id": "c1f59b97b5020afc327a37974cb2160eb2f2c4f0ec7a3be7e3f74a7b414441636174",
+    "decimals": 0,
+    "ticker": "ADAcat",
+    "icon": "https://spectrum.fi/logos/cardano/c1f59b97b5020afc327a37974cb2160eb2f2c4f0ec7a3be7e3f74a7b414441636174.webp",
+    "data": {
+      "policyId": "c1f59b97b5020afc327a37974cb2160eb2f2c4f0ec7a3be7e3f74a7b",
+      "name": "ADAcat",
+      "nameHex": "46414441636174"
+    }
+  },
+  {
+    "name": "GIGASNEK",
+    "id": "f3fc8638cb9b0016c979cb5543d74264e798b59dce5a66e2c49b008847494741534e454b",
+    "decimals": 0,
+    "ticker": "GIGASNEK",
+    "icon": "https://spectrum.fi/logos/cardano/f3fc8638cb9b0016c979cb5543d74264e798b59dce5a66e2c49b008847494741534e454b.webp",
+    "data": {
+      "policyId": "f3fc8638cb9b0016c979cb5543d74264e798b59dce5a66e2c49b0088",
+      "name": "GIGASNEK",
+      "nameHex": "4847494741534e454b"
+    }
+  },
+  {
+    "name": "SLOW",
+    "id": "5e66c3324a56f99f8174de6f5d2b501a9bc9987b174077ecc3a10147534c4f57",
+    "decimals": 0,
+    "ticker": "SLOW",
+    "icon": "https://spectrum.fi/logos/cardano/5e66c3324a56f99f8174de6f5d2b501a9bc9987b174077ecc3a10147534c4f57.webp",
+    "data": {
+      "policyId": "5e66c3324a56f99f8174de6f5d2b501a9bc9987b174077ecc3a10147",
+      "name": "SLOW",
+      "nameHex": "44534c4f57"
+    }
+  },
+  {
+    "name": "Yoyo The Cat",
+    "id": "ab720826d2f0c36ea552164e0a03c7efd8c3549c692cf7460a683f13596f796f2054686520436174",
+    "decimals": 0,
+    "ticker": "Yoyo The Cat",
+    "icon": "https://spectrum.fi/logos/cardano/ab720826d2f0c36ea552164e0a03c7efd8c3549c692cf7460a683f13596f796f2054686520436174.webp",
+    "data": {
+      "policyId": "ab720826d2f0c36ea552164e0a03c7efd8c3549c692cf7460a683f13",
+      "name": "Yoyo The Cat",
+      "nameHex": "4c596f796f2054686520436174"
+    }
+  },
+  {
+    "name": "BALLY",
+    "id": "6b5829c1f34f664613a77882253617f006a33904237c189112b07cee42414c4c59",
+    "decimals": 0,
+    "ticker": "BALLY",
+    "icon": "https://spectrum.fi/logos/cardano/6b5829c1f34f664613a77882253617f006a33904237c189112b07cee42414c4c59.webp",
+    "data": {
+      "policyId": "6b5829c1f34f664613a77882253617f006a33904237c189112b07cee",
+      "name": "BALLY",
+      "nameHex": "4542414c4c59"
+    }
+  },
+  {
+    "name": "ADAPEPE",
+    "id": "e09923a7fa39a2d13547977f05f328291996aac32ca23b32431721b541444150455045",
+    "decimals": 0,
+    "ticker": "ADAPEPE",
+    "icon": "https://spectrum.fi/logos/cardano/e09923a7fa39a2d13547977f05f328291996aac32ca23b32431721b541444150455045.webp",
+    "data": {
+      "policyId": "e09923a7fa39a2d13547977f05f328291996aac32ca23b32431721b5",
+      "name": "ADAPEPE",
+      "nameHex": "4741444150455045"
+    }
+  },
+  {
+    "name": "SHRMP",
+    "id": "7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d5348524d50",
+    "decimals": 0,
+    "ticker": "SHRMP",
+    "icon": "https://spectrum.fi/logos/cardano/7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d5348524d50.webp",
+    "data": {
+      "policyId": "7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d",
+      "name": "SHRMP",
+      "nameHex": "455348524d50"
+    }
+  },
+  {
+    "name": "Nova token",
+    "id": "98feb5c8619c0314ac0787bc59b0e63ad6c4232551fa35f1f735b1aa4e4f5634",
+    "decimals": 0,
+    "ticker": "NOVA",
+    "icon": "https://spectrum.fi/logos/cardano/98feb5c8619c0314ac0787bc59b0e63ad6c4232551fa35f1f735b1aa4e4f5634.webp",
+    "data": {
+      "policyId": "98feb5c8619c0314ac0787bc59b0e63ad6c4232551fa35f1f735b1aa",
+      "name": "NOV4",
+      "nameHex": "444e4f5634"
+    }
+  },
+  {
+    "name": "$STNY",
+    "id": "c7be34e400080307021929e0b39450d013131b4e51d6db311e2c99362453544e59",
+    "decimals": 0,
+    "ticker": "$STNY",
+    "icon": "https://spectrum.fi/logos/cardano/c7be34e400080307021929e0b39450d013131b4e51d6db311e2c99362453544e59.webp",
+    "data": {
+      "policyId": "c7be34e400080307021929e0b39450d013131b4e51d6db311e2c9936",
+      "name": "$STNY",
+      "nameHex": "452453544e59"
+    }
+  },
+  {
+    "name": "FREN",
+    "id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+    "decimals": 0,
+    "ticker": "FREN",
+    "icon": "https://spectrum.fi/logos/cardano/fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e.webp",
+    "data": {
+      "policyId": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce61",
+      "name": "FREN",
+      "nameHex": "444652454e"
+    }
+  },
+  {
+    "name": "ADACAT",
+    "id": "61ecc02c3ef129a2bff6ffa9780641b0ceac0e3070c0834b264fa6cf414441434154",
+    "decimals": 0,
+    "ticker": "ADACAT",
+    "icon": "https://spectrum.fi/logos/cardano/61ecc02c3ef129a2bff6ffa9780641b0ceac0e3070c0834b264fa6cf414441434154.webp",
+    "data": {
+      "policyId": "61ecc02c3ef129a2bff6ffa9780641b0ceac0e3070c0834b264fa6cf",
+      "name": "ADACAT",
+      "nameHex": "46414441434154"
+    }
+  },
+  {
+    "name": "AXO",
+    "id": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+    "decimals": 9,
+    "ticker": "AXO",
+    "icon": "https://spectrum.fi/logos/cardano/420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f.webp",
+    "data": {
+      "policyId": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
+      "name": "AXO",
+      "nameHex": "4341584f"
+    }
+  },
+  {
+    "name": "THICC",
+    "id": "24cc306a1db098fad4572041e92c9770957eaf55711a2d232fa2412f5448494343",
+    "decimals": 0,
+    "ticker": "THICC",
+    "icon": "https://spectrum.fi/logos/cardano/24cc306a1db098fad4572041e92c9770957eaf55711a2d232fa2412f5448494343.webp",
+    "data": {
+      "policyId": "24cc306a1db098fad4572041e92c9770957eaf55711a2d232fa2412f",
+      "name": "THICC",
+      "nameHex": "455448494343"
+    }
+  },
+  {
+    "name": "THICC",
+    "id": "c4d9cb9e62d519c79f77b529167ab893cf1f980b9d0dc7327639696e5448494343",
+    "decimals": 0,
+    "ticker": "THICC",
+    "icon": "https://spectrum.fi/logos/cardano/c4d9cb9e62d519c79f77b529167ab893cf1f980b9d0dc7327639696e5448494343.webp",
+    "data": {
+      "policyId": "c4d9cb9e62d519c79f77b529167ab893cf1f980b9d0dc7327639696e",
+      "name": "THICC",
+      "nameHex": "455448494343"
+    }
+  },
+  {
+    "name": "Stek",
+    "id": "8e3f84e0be3ac4088da4a056320c057a153ef05a9b79cbe7cefdc26e5374656b",
+    "decimals": 0,
+    "ticker": "Stek",
+    "icon": "https://spectrum.fi/logos/cardano/8e3f84e0be3ac4088da4a056320c057a153ef05a9b79cbe7cefdc26e5374656b.webp",
+    "data": {
+      "policyId": "8e3f84e0be3ac4088da4a056320c057a153ef05a9b79cbe7cefdc26e",
+      "name": "Stek",
+      "nameHex": "445374656b"
+    }
+  },
+  {
+    "name": "Keren",
+    "id": "8d2a2a2ccfa292f7f32aa7ea3d8d4dad81f888d25fa40b3291e4429e4b6572656e",
+    "decimals": 0,
+    "ticker": "Keren",
+    "icon": "https://spectrum.fi/logos/cardano/8d2a2a2ccfa292f7f32aa7ea3d8d4dad81f888d25fa40b3291e4429e4b6572656e.webp",
+    "data": {
+      "policyId": "8d2a2a2ccfa292f7f32aa7ea3d8d4dad81f888d25fa40b3291e4429e",
+      "name": "Keren",
+      "nameHex": "454b6572656e"
+    }
+  },
+  {
+    "name": "VIPER",
+    "id": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+    "decimals": 0,
+    "ticker": "VIPER",
+    "icon": "https://spectrum.fi/logos/cardano/caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552.webp",
+    "data": {
+      "policyId": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b997",
+      "name": "VIPER",
+      "nameHex": "455649504552"
+    }
+  },
+  {
+    "name": "Cardano Cat",
+    "id": "516a7b02e2caa17dbf48bd67eb3150a8713ff493f147a32171380a2d43617264616e6f20436174",
+    "decimals": 0,
+    "ticker": "Cardano Cat",
+    "icon": "https://spectrum.fi/logos/cardano/516a7b02e2caa17dbf48bd67eb3150a8713ff493f147a32171380a2d43617264616e6f20436174.webp",
+    "data": {
+      "policyId": "516a7b02e2caa17dbf48bd67eb3150a8713ff493f147a32171380a2d",
+      "name": "Cardano Cat",
+      "nameHex": "4b43617264616e6f20436174"
+    }
+  },
+  {
+    "name": "Keren",
+    "id": "0e275a08e3fafaa76c4b8aa01cc7ffbd79374bc8f7aad25057cc3d304b6572656e",
+    "decimals": 0,
+    "ticker": "Keren",
+    "icon": "https://spectrum.fi/logos/cardano/0e275a08e3fafaa76c4b8aa01cc7ffbd79374bc8f7aad25057cc3d304b6572656e.webp",
+    "data": {
+      "policyId": "0e275a08e3fafaa76c4b8aa01cc7ffbd79374bc8f7aad25057cc3d30",
+      "name": "Keren",
+      "nameHex": "454b6572656e"
+    }
+  },
+  {
+    "name": "GM",
+    "id": "c08787f233ccc43de7f96e04553a3f792f86e16671faf6e4294763fc474d",
+    "decimals": 0,
+    "ticker": "GM",
+    "icon": "https://spectrum.fi/logos/cardano/c08787f233ccc43de7f96e04553a3f792f86e16671faf6e4294763fc474d.webp",
+    "data": {
+      "policyId": "c08787f233ccc43de7f96e04553a3f792f86e16671faf6e4294763fc",
+      "name": "GM",
+      "nameHex": "42474d"
+    }
+  },
+  {
+    "name": "Snek On sStone",
+    "id": "2aa5b092ba6119cd3ead96cb03421b54d790bd95db414aae26b8402e536e656b204f6e207353746f6e65",
+    "decimals": 0,
+    "ticker": "Snek On sStone",
+    "icon": "https://spectrum.fi/logos/cardano/2aa5b092ba6119cd3ead96cb03421b54d790bd95db414aae26b8402e536e656b204f6e207353746f6e65.webp",
+    "data": {
+      "policyId": "2aa5b092ba6119cd3ead96cb03421b54d790bd95db414aae26b8402e",
+      "name": "Snek On sStone",
+      "nameHex": "4e536e656b204f6e207353746f6e65"
+    }
+  },
+  {
+    "name": "cBTC",
+    "id": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e3763425443",
+    "decimals": 8,
+    "ticker": "cBTC",
+    "icon": "https://spectrum.fi/logos/cardano/4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e3763425443.webp",
+    "data": {
+      "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
+      "name": "cBTC",
+      "nameHex": "4463425443"
+    }
+  },
+  {
+    "name": "SMILE",
+    "id": "90343c34e0c78d60fcd0253be331ee5a8073ed78e1612fb0f2d3ebde534d494c45",
+    "decimals": 0,
+    "ticker": "SMILE",
+    "icon": "https://spectrum.fi/logos/cardano/90343c34e0c78d60fcd0253be331ee5a8073ed78e1612fb0f2d3ebde534d494c45.webp",
+    "data": {
+      "policyId": "90343c34e0c78d60fcd0253be331ee5a8073ed78e1612fb0f2d3ebde",
+      "name": "SMILE",
+      "nameHex": "45534d494c45"
+    }
+  },
+  {
+    "name": "DOGADA",
+    "id": "0915598160ab4c6514d2f560295ceedfceb8b00e9daf6f24a9a1c694444f47414441",
+    "decimals": 0,
+    "ticker": "DOGADA",
+    "icon": "https://spectrum.fi/logos/cardano/0915598160ab4c6514d2f560295ceedfceb8b00e9daf6f24a9a1c694444f47414441.webp",
+    "data": {
+      "policyId": "0915598160ab4c6514d2f560295ceedfceb8b00e9daf6f24a9a1c694",
+      "name": "DOGADA",
+      "nameHex": "46444f47414441"
+    }
+  },
+  {
+    "name": "Chorls Hoskinsun",
+    "id": "303cb7edd9c19ef83cb4eb9cdf6f46627978856e53fb90d612f1b1d043686f726c7320486f736b696e73756e",
+    "decimals": 0,
+    "ticker": "Chorls Hoskinsun",
+    "icon": "https://spectrum.fi/logos/cardano/303cb7edd9c19ef83cb4eb9cdf6f46627978856e53fb90d612f1b1d043686f726c7320486f736b696e73756e.webp",
+    "data": {
+      "policyId": "303cb7edd9c19ef83cb4eb9cdf6f46627978856e53fb90d612f1b1d0",
+      "name": "Chorls Hoskinsun",
+      "nameHex": "5043686f726c7320486f736b696e73756e"
+    }
+  },
+  {
+    "name": "HUNT",
+    "id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+    "decimals": 6,
+    "ticker": "HUNT",
+    "icon": "https://spectrum.fi/logos/cardano/95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54.webp",
+    "data": {
+      "policyId": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb00",
+      "name": "HUNT",
+      "nameHex": "4448554e54"
+    }
+  },
+  {
+    "name": "CARDRAMA ",
+    "id": "ce25f9fd01c4f4155047131f289f886623720b55b828bcaa2b9597cc4341524452414d4120",
+    "decimals": 0,
+    "ticker": "CARDRAMA ",
+    "icon": "https://spectrum.fi/logos/cardano/ce25f9fd01c4f4155047131f289f886623720b55b828bcaa2b9597cc4341524452414d4120.webp",
+    "data": {
+      "policyId": "ce25f9fd01c4f4155047131f289f886623720b55b828bcaa2b9597cc",
+      "name": "CARDRAMA ",
+      "nameHex": "494341524452414d4120"
+    }
+  },
+  {
+    "name": "FREYA",
+    "id": "cd9bd06edd60e1c602a49a49154258cb28ab934d5b16a69a692d2c394652455941",
+    "decimals": 0,
+    "ticker": "FREYA",
+    "icon": "https://spectrum.fi/logos/cardano/cd9bd06edd60e1c602a49a49154258cb28ab934d5b16a69a692d2c394652455941.webp",
+    "data": {
+      "policyId": "cd9bd06edd60e1c602a49a49154258cb28ab934d5b16a69a692d2c39",
+      "name": "FREYA",
+      "nameHex": "454652455941"
+    }
+  },
+  {
+    "name": "PEPE",
+    "id": "d1288d2f5b05d9d6174a4cf7b41ca7476225e6128de8feb5e6a5098050455045",
+    "decimals": 0,
+    "ticker": "PEPE",
+    "icon": "https://spectrum.fi/logos/cardano/d1288d2f5b05d9d6174a4cf7b41ca7476225e6128de8feb5e6a5098050455045.webp",
+    "data": {
+      "policyId": "d1288d2f5b05d9d6174a4cf7b41ca7476225e6128de8feb5e6a50980",
+      "name": "PEPE",
+      "nameHex": "4450455045"
+    }
+  },
+  {
+    "name": "BTC",
+    "id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935425443",
+    "decimals": 8,
+    "ticker": "BTC",
+    "icon": "https://spectrum.fi/logos/cardano/25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935425443.webp",
+    "data": {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "name": "BTC",
+      "nameHex": "43425443"
+    }
+  },
+  {
+    "name": "BabySNEK",
+    "id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+    "decimals": 0,
+    "ticker": "BabySNEK",
+    "icon": "https://spectrum.fi/logos/cardano/7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b.webp",
+    "data": {
+      "policyId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
+      "name": "BabySNEK",
+      "nameHex": "4842616279534e454b"
+    }
+  },
+  {
+    "name": "Snek cat",
+    "id": "016999c4972f5fa32b214957b050d167e5af2c5ebe62d4bde52eb733536e656b20636174",
+    "decimals": 0,
+    "ticker": "Snek cat",
+    "icon": "https://spectrum.fi/logos/cardano/016999c4972f5fa32b214957b050d167e5af2c5ebe62d4bde52eb733536e656b20636174.webp",
+    "data": {
+      "policyId": "016999c4972f5fa32b214957b050d167e5af2c5ebe62d4bde52eb733",
+      "name": "Snek cat",
+      "nameHex": "48536e656b20636174"
+    }
+  },
+  {
+    "name": "Leo",
+    "id": "07e9e4324c01f102e93c2febf826c45e6aff7d92bcd59562e444a3bb4c656f",
+    "decimals": 0,
+    "ticker": "Leo",
+    "icon": "https://spectrum.fi/logos/cardano/07e9e4324c01f102e93c2febf826c45e6aff7d92bcd59562e444a3bb4c656f.webp",
+    "data": {
+      "policyId": "07e9e4324c01f102e93c2febf826c45e6aff7d92bcd59562e444a3bb",
+      "name": "Leo",
+      "nameHex": "434c656f"
+    }
+  },
+  {
+    "name": "masky",
+    "id": "2801f2e07a528269f1e6b585dc91de78b17d3f92dc21063ade8f830f6d61736b79",
+    "decimals": 0,
+    "ticker": "masky",
+    "icon": "https://spectrum.fi/logos/cardano/2801f2e07a528269f1e6b585dc91de78b17d3f92dc21063ade8f830f6d61736b79.webp",
+    "data": {
+      "policyId": "2801f2e07a528269f1e6b585dc91de78b17d3f92dc21063ade8f830f",
+      "name": "masky",
+      "nameHex": "456d61736b79"
+    }
+  },
+  {
+    "name": "Mc. SnekJak",
+    "id": "116ece92d009105bbd0f7740f13250d45b1780aad601e8c1932dad7c4d632e20536e656b4a616b",
+    "decimals": 0,
+    "ticker": "Mc. SnekJak",
+    "icon": "https://spectrum.fi/logos/cardano/116ece92d009105bbd0f7740f13250d45b1780aad601e8c1932dad7c4d632e20536e656b4a616b.webp",
+    "data": {
+      "policyId": "116ece92d009105bbd0f7740f13250d45b1780aad601e8c1932dad7c",
+      "name": "Mc. SnekJak",
+      "nameHex": "4b4d632e20536e656b4a616b"
+    }
+  },
+  {
+    "name": "Snek.fun",
+    "id": "493a02cfda032a0a5953b7cb33b41f5a79667c23fadd79f3eb5bd5e8536e656b2e66756e",
+    "decimals": 0,
+    "ticker": "Snek.fun",
+    "icon": "https://spectrum.fi/logos/cardano/493a02cfda032a0a5953b7cb33b41f5a79667c23fadd79f3eb5bd5e8536e656b2e66756e.webp",
+    "data": {
+      "policyId": "493a02cfda032a0a5953b7cb33b41f5a79667c23fadd79f3eb5bd5e8",
+      "name": "Snek.fun",
+      "nameHex": "48536e656b2e66756e"
+    }
+  },
+  {
+    "name": "DeezNutz",
+    "id": "a555dfb164be6652ff58a4528b69192e5535ec3165a267ac268f0e604465657a4e75747a",
+    "decimals": 0,
+    "ticker": "DeezNutz",
+    "icon": "https://spectrum.fi/logos/cardano/a555dfb164be6652ff58a4528b69192e5535ec3165a267ac268f0e604465657a4e75747a.webp",
+    "data": {
+      "policyId": "a555dfb164be6652ff58a4528b69192e5535ec3165a267ac268f0e60",
+      "name": "DeezNutz",
+      "nameHex": "484465657a4e75747a"
+    }
+  },
+  {
+    "name": "OtterWifBlanket",
+    "id": "cbdd51fec98ac08ff9d681792201df485c61af38a19f7214e2b7840b4f74746572576966426c616e6b6574",
+    "decimals": 0,
+    "ticker": "OtterWifBlanket",
+    "icon": "https://spectrum.fi/logos/cardano/cbdd51fec98ac08ff9d681792201df485c61af38a19f7214e2b7840b4f74746572576966426c616e6b6574.webp",
+    "data": {
+      "policyId": "cbdd51fec98ac08ff9d681792201df485c61af38a19f7214e2b7840b",
+      "name": "OtterWifBlanket",
+      "nameHex": "4f4f74746572576966426c616e6b6574"
+    }
+  },
+  {
+    "name": "Prepe Frog",
+    "id": "19c6fbe8b9fb5ef9d70b2d3b299d5bbcd22157a16dc08730a4a06c8550726570652046726f67",
+    "decimals": 0,
+    "ticker": "Prepe Frog",
+    "icon": "https://spectrum.fi/logos/cardano/19c6fbe8b9fb5ef9d70b2d3b299d5bbcd22157a16dc08730a4a06c8550726570652046726f67.webp",
+    "data": {
+      "policyId": "19c6fbe8b9fb5ef9d70b2d3b299d5bbcd22157a16dc08730a4a06c85",
+      "name": "Prepe Frog",
+      "nameHex": "4a50726570652046726f67"
+    }
+  },
+  {
+    "name": "Snek On Stone",
+    "id": "6eb35f684df02d5c87669f6b982c1267ef8de995a157374e3d3a6859536e656b204f6e2053746f6e65",
+    "decimals": 0,
+    "ticker": "Snek On Stone",
+    "icon": "https://spectrum.fi/logos/cardano/6eb35f684df02d5c87669f6b982c1267ef8de995a157374e3d3a6859536e656b204f6e2053746f6e65.webp",
+    "data": {
+      "policyId": "6eb35f684df02d5c87669f6b982c1267ef8de995a157374e3d3a6859",
+      "name": "Snek On Stone",
+      "nameHex": "4d536e656b204f6e2053746f6e65"
+    }
+  },
+  {
+    "name": "Cardano Dog",
+    "id": "4032f73762dac7be54d8a9bceaf5baecf06567193940602470fac10743617264616e6f20446f67",
+    "decimals": 0,
+    "ticker": "Cardano Dog",
+    "icon": "https://spectrum.fi/logos/cardano/4032f73762dac7be54d8a9bceaf5baecf06567193940602470fac10743617264616e6f20446f67.webp",
+    "data": {
+      "policyId": "4032f73762dac7be54d8a9bceaf5baecf06567193940602470fac107",
+      "name": "Cardano Dog",
+      "nameHex": "4b43617264616e6f20446f67"
+    }
+  },
+  {
+    "name": "Pikki",
+    "id": "7cc354b506dfaa744953e5e8604b0e29a756524014a6a9f3ced6cdd250696b6b69",
+    "decimals": 0,
+    "ticker": "Pikki",
+    "icon": "https://spectrum.fi/logos/cardano/7cc354b506dfaa744953e5e8604b0e29a756524014a6a9f3ced6cdd250696b6b69.webp",
+    "data": {
+      "policyId": "7cc354b506dfaa744953e5e8604b0e29a756524014a6a9f3ced6cdd2",
+      "name": "Pikki",
+      "nameHex": "4550696b6b69"
+    }
+  },
+  {
+    "name": "Bucket",
+    "id": "48506c3b1819cfcfe163182e1fe3dab083e37f674342468878c8e2f24275636b6574",
+    "decimals": 0,
+    "ticker": "Bucket",
+    "icon": "https://spectrum.fi/logos/cardano/48506c3b1819cfcfe163182e1fe3dab083e37f674342468878c8e2f24275636b6574.webp",
+    "data": {
+      "policyId": "48506c3b1819cfcfe163182e1fe3dab083e37f674342468878c8e2f2",
+      "name": "Bucket",
+      "nameHex": "464275636b6574"
+    }
+  },
+  {
+    "name": "Kefir",
+    "id": "bd8b606915dec6dca26661cbedd05c67b9881a9a929aa33f6501bee94b65666972",
+    "decimals": 0,
+    "ticker": "Kefir",
+    "icon": "https://spectrum.fi/logos/cardano/bd8b606915dec6dca26661cbedd05c67b9881a9a929aa33f6501bee94b65666972.webp",
+    "data": {
+      "policyId": "bd8b606915dec6dca26661cbedd05c67b9881a9a929aa33f6501bee9",
+      "name": "Kefir",
+      "nameHex": "454b65666972"
+    }
+  },
+  {
+    "name": "The Glass Artist",
+    "id": "1ea440be8c7d207e7ddb32465b9a7b5b7c43810b1337eda538f6b63a54686520476c61737320417274697374",
+    "decimals": 0,
+    "ticker": "The Glass Artist",
+    "icon": "https://spectrum.fi/logos/cardano/1ea440be8c7d207e7ddb32465b9a7b5b7c43810b1337eda538f6b63a54686520476c61737320417274697374.webp",
+    "data": {
+      "policyId": "1ea440be8c7d207e7ddb32465b9a7b5b7c43810b1337eda538f6b63a",
+      "name": "The Glass Artist",
+      "nameHex": "5054686520476c61737320417274697374"
+    }
+  },
+  {
+    "name": "CatwifPineapple",
+    "id": "5a3047e259318744266a60a4981401775648013b8171777b0d1ab84c43617477696650696e656170706c65",
+    "decimals": 0,
+    "ticker": "CatwifPineapple",
+    "icon": "https://spectrum.fi/logos/cardano/5a3047e259318744266a60a4981401775648013b8171777b0d1ab84c43617477696650696e656170706c65.webp",
+    "data": {
+      "policyId": "5a3047e259318744266a60a4981401775648013b8171777b0d1ab84c",
+      "name": "CatwifPineapple",
+      "nameHex": "4f43617477696650696e656170706c65"
+    }
+  },
+  {
+    "name": "PIG",
+    "id": "d4f618e08f176f65cf895fb3782689ab20488776692a6ab9ce7d5253504947",
+    "decimals": 0,
+    "ticker": "PIG",
+    "icon": "https://spectrum.fi/logos/cardano/d4f618e08f176f65cf895fb3782689ab20488776692a6ab9ce7d5253504947.webp",
+    "data": {
+      "policyId": "d4f618e08f176f65cf895fb3782689ab20488776692a6ab9ce7d5253",
+      "name": "PIG",
+      "nameHex": "43504947"
+    }
+  },
+  {
+    "name": "PONZI",
+    "id": "b50c465ef678170d5daf787efac507161a56a193d75fffd38ab3e339504f4e5a49",
+    "decimals": 0,
+    "ticker": "PONZI",
+    "icon": "https://spectrum.fi/logos/cardano/b50c465ef678170d5daf787efac507161a56a193d75fffd38ab3e339504f4e5a49.webp",
+    "data": {
+      "policyId": "b50c465ef678170d5daf787efac507161a56a193d75fffd38ab3e339",
+      "name": "PONZI",
+      "nameHex": "45504f4e5a49"
+    }
+  },
+  {
+    "name": "FOMO",
+    "id": "e793af08d6b5ab85470101b4a23db8eeb58f0c615749b4b346d98cd7464f4d4f",
+    "decimals": 0,
+    "ticker": "FOMO",
+    "icon": "https://spectrum.fi/logos/cardano/e793af08d6b5ab85470101b4a23db8eeb58f0c615749b4b346d98cd7464f4d4f.webp",
+    "data": {
+      "policyId": "e793af08d6b5ab85470101b4a23db8eeb58f0c615749b4b346d98cd7",
+      "name": "FOMO",
+      "nameHex": "44464f4d4f"
+    }
+  },
+  {
+    "name": "Quack Dano",
+    "id": "399818e9b8efb2ba94610e5cb701af72c77ca54b63d47223d061cdcc517561636b2044616e6f",
+    "decimals": 0,
+    "ticker": "Quack Dano",
+    "icon": "https://spectrum.fi/logos/cardano/399818e9b8efb2ba94610e5cb701af72c77ca54b63d47223d061cdcc517561636b2044616e6f.webp",
+    "data": {
+      "policyId": "399818e9b8efb2ba94610e5cb701af72c77ca54b63d47223d061cdcc",
+      "name": "Quack Dano",
+      "nameHex": "4a517561636b2044616e6f"
+    }
+  },
+  {
+    "name": "SLUG.FUN",
+    "id": "a922886a9c6f10f94eaff18b9ade755dffaf61aeecb90d2bc07b7f72534c55472e46554e",
+    "decimals": 0,
+    "ticker": "SLUG.FUN",
+    "icon": "https://spectrum.fi/logos/cardano/a922886a9c6f10f94eaff18b9ade755dffaf61aeecb90d2bc07b7f72534c55472e46554e.webp",
+    "data": {
+      "policyId": "a922886a9c6f10f94eaff18b9ade755dffaf61aeecb90d2bc07b7f72",
+      "name": "SLUG.FUN",
+      "nameHex": "48534c55472e46554e"
+    }
+  },
+  {
+    "name": "ADAPE",
+    "id": "0d86f8f88da9514e10368343a42b8418797bdbdbf2608041a0ad79054144415045",
+    "decimals": 0,
+    "ticker": "ADAPE",
+    "icon": "https://spectrum.fi/logos/cardano/0d86f8f88da9514e10368343a42b8418797bdbdbf2608041a0ad79054144415045.webp",
+    "data": {
+      "policyId": "0d86f8f88da9514e10368343a42b8418797bdbdbf2608041a0ad7905",
+      "name": "ADAPE",
+      "nameHex": "454144415045"
+    }
+  },
+  {
+    "name": "SANDY",
+    "id": "0b771aead90164914606796173128a5d5fa76193556aee9a17fc3c7c53414e4459",
+    "decimals": 0,
+    "ticker": "SANDY",
+    "icon": "https://spectrum.fi/logos/cardano/0b771aead90164914606796173128a5d5fa76193556aee9a17fc3c7c53414e4459.webp",
+    "data": {
+      "policyId": "0b771aead90164914606796173128a5d5fa76193556aee9a17fc3c7c",
+      "name": "SANDY",
+      "nameHex": "4553414e4459"
+    }
+  },
+  {
+    "name": "snkecat",
+    "id": "1d0c83b06cec262687b85af2526c2f669cdc865ac2cb49b1a323a57f736e6b65636174",
+    "decimals": 0,
+    "ticker": "snkecat",
+    "icon": "https://spectrum.fi/logos/cardano/1d0c83b06cec262687b85af2526c2f669cdc865ac2cb49b1a323a57f736e6b65636174.webp",
+    "data": {
+      "policyId": "1d0c83b06cec262687b85af2526c2f669cdc865ac2cb49b1a323a57f",
+      "name": "snkecat",
+      "nameHex": "47736e6b65636174"
+    }
+  },
+  {
+    "name": "OPTIM",
+    "id": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+    "decimals": 6,
+    "ticker": "OPTIM",
+    "icon": "https://spectrum.fi/logos/cardano/e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d.webp",
+    "data": {
+      "policyId": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc1",
+      "name": "OPTIM",
+      "nameHex": "454f5054494d"
+    }
+  },
+  {
+    "name": "YODA ADA",
+    "id": "6065b750cda56e47ef7425a85756558a6766be308dc50728a9c08efb594f444120414441",
+    "decimals": 0,
+    "ticker": "YODA ADA",
+    "icon": "https://spectrum.fi/logos/cardano/6065b750cda56e47ef7425a85756558a6766be308dc50728a9c08efb594f444120414441.webp",
+    "data": {
+      "policyId": "6065b750cda56e47ef7425a85756558a6766be308dc50728a9c08efb",
+      "name": "YODA ADA",
+      "nameHex": "48594f444120414441"
+    }
+  },
+  {
+    "name": "DANNOS",
+    "id": "8ba094870d8fbb6b035de825ac790d46de0407424482755315d5e05e44414e4e4f53",
+    "decimals": 0,
+    "ticker": "DANNOS",
+    "icon": "https://spectrum.fi/logos/cardano/8ba094870d8fbb6b035de825ac790d46de0407424482755315d5e05e44414e4e4f53.webp",
+    "data": {
+      "policyId": "8ba094870d8fbb6b035de825ac790d46de0407424482755315d5e05e",
+      "name": "DANNOS",
+      "nameHex": "4644414e4e4f53"
+    }
+  },
+  {
+    "name": "ADAFLOKI",
+    "id": "0918139c6f221d60a4819bc31f6dd323800352a6861228727306581a414441464c4f4b49",
+    "decimals": 0,
+    "ticker": "ADAFLOKI",
+    "icon": "https://spectrum.fi/logos/cardano/0918139c6f221d60a4819bc31f6dd323800352a6861228727306581a414441464c4f4b49.webp",
+    "data": {
+      "policyId": "0918139c6f221d60a4819bc31f6dd323800352a6861228727306581a",
+      "name": "ADAFLOKI",
+      "nameHex": "48414441464c4f4b49"
+    }
+  },
+  {
+    "name": "Boo On Ada",
+    "id": "1df2326532a81930d621ced32e4da4ea71a43e78c509fd506bc632b1426f6f204f6e20416461",
+    "decimals": 0,
+    "ticker": "Boo On Ada",
+    "icon": "https://spectrum.fi/logos/cardano/1df2326532a81930d621ced32e4da4ea71a43e78c509fd506bc632b1426f6f204f6e20416461.webp",
+    "data": {
+      "policyId": "1df2326532a81930d621ced32e4da4ea71a43e78c509fd506bc632b1",
+      "name": "Boo On Ada",
+      "nameHex": "4a426f6f204f6e20416461"
+    }
+  },
+  {
+    "name": "STARFUCKS",
+    "id": "04f230a1221b360b044839332ec3e3696cb72925b6f3653d97589ae0535441524655434b53",
+    "decimals": 0,
+    "ticker": "STARFUCKS",
+    "icon": "https://spectrum.fi/logos/cardano/04f230a1221b360b044839332ec3e3696cb72925b6f3653d97589ae0535441524655434b53.webp",
+    "data": {
+      "policyId": "04f230a1221b360b044839332ec3e3696cb72925b6f3653d97589ae0",
+      "name": "STARFUCKS",
+      "nameHex": "49535441524655434b53"
+    }
+  },
+  {
+    "name": "CHAD",
+    "id": "b1ac1f316a4cd9ad0632988e8ec491e30f68b9ca4adc90e4b2eb8b3d43484144",
+    "decimals": 0,
+    "ticker": "CHAD",
+    "icon": "https://spectrum.fi/logos/cardano/b1ac1f316a4cd9ad0632988e8ec491e30f68b9ca4adc90e4b2eb8b3d43484144.webp",
+    "data": {
+      "policyId": "b1ac1f316a4cd9ad0632988e8ec491e30f68b9ca4adc90e4b2eb8b3d",
+      "name": "CHAD",
+      "nameHex": "4443484144"
+    }
+  },
+  {
+    "name": "BIRDY",
+    "id": "4c3570ef581edffe70c6a37451cbfc9f4dc38289bf85e7515e91a0924249524459",
+    "decimals": 0,
+    "ticker": "BIRDY",
+    "icon": "https://spectrum.fi/logos/cardano/4c3570ef581edffe70c6a37451cbfc9f4dc38289bf85e7515e91a0924249524459.webp",
+    "data": {
+      "policyId": "4c3570ef581edffe70c6a37451cbfc9f4dc38289bf85e7515e91a092",
+      "name": "BIRDY",
+      "nameHex": "454249524459"
+    }
+  },
+  {
+    "name": "ADAdog",
+    "id": "49af4b38e21613b7112d2e9ef354052ab225f00499ba93aa9807b99a414441646f67",
+    "decimals": 0,
+    "ticker": "ADAdog",
+    "icon": "https://spectrum.fi/logos/cardano/49af4b38e21613b7112d2e9ef354052ab225f00499ba93aa9807b99a414441646f67.webp",
+    "data": {
+      "policyId": "49af4b38e21613b7112d2e9ef354052ab225f00499ba93aa9807b99a",
+      "name": "ADAdog",
+      "nameHex": "46414441646f67"
+    }
+  },
+  {
+    "name": "DeeDeeinu",
+    "id": "7b92bdcf02d7af306fd60c1c6bd9446a5f8f3d42a6b03ed771370d99446565446565696e75",
+    "decimals": 0,
+    "ticker": "DeeDeeinu",
+    "icon": "https://spectrum.fi/logos/cardano/7b92bdcf02d7af306fd60c1c6bd9446a5f8f3d42a6b03ed771370d99446565446565696e75.webp",
+    "data": {
+      "policyId": "7b92bdcf02d7af306fd60c1c6bd9446a5f8f3d42a6b03ed771370d99",
+      "name": "DeeDeeinu",
+      "nameHex": "49446565446565696e75"
+    }
+  },
+  {
+    "name": "POPCAT",
+    "id": "1edb84cebd281fa0d42c48db8ddb5b5660e544ad702aa20e58b3f698504f50434154",
+    "decimals": 0,
+    "ticker": "POPCAT",
+    "icon": "https://spectrum.fi/logos/cardano/1edb84cebd281fa0d42c48db8ddb5b5660e544ad702aa20e58b3f698504f50434154.webp",
+    "data": {
+      "policyId": "1edb84cebd281fa0d42c48db8ddb5b5660e544ad702aa20e58b3f698",
+      "name": "POPCAT",
+      "nameHex": "46504f50434154"
+    }
+  },
+  {
+    "name": "DoGaDa",
+    "id": "fe9cbd3677e7c40b9a327cdba5b0e7bb78443b04f2ef9e0fe713d92b446f47614461",
+    "decimals": 0,
+    "ticker": "DoGaDa",
+    "icon": "https://spectrum.fi/logos/cardano/fe9cbd3677e7c40b9a327cdba5b0e7bb78443b04f2ef9e0fe713d92b446f47614461.webp",
+    "data": {
+      "policyId": "fe9cbd3677e7c40b9a327cdba5b0e7bb78443b04f2ef9e0fe713d92b",
+      "name": "DoGaDa",
+      "nameHex": "46446f47614461"
+    }
+  },
+  {
+    "name": "Hammy Hamster",
+    "id": "39bf617927c077aaf18e3d25cf945f3cc20ef207a13cd28e1079888d48616d6d792048616d73746572",
+    "decimals": 0,
+    "ticker": "Hammy Hamster",
+    "icon": "https://spectrum.fi/logos/cardano/39bf617927c077aaf18e3d25cf945f3cc20ef207a13cd28e1079888d48616d6d792048616d73746572.webp",
+    "data": {
+      "policyId": "39bf617927c077aaf18e3d25cf945f3cc20ef207a13cd28e1079888d",
+      "name": "Hammy Hamster",
+      "nameHex": "4d48616d6d792048616d73746572"
+    }
+  },
+  {
+    "name": "LADBOY",
+    "id": "62856bccda5241086f16449a1a282f0c26e7a54cc0be0566e39474da4c4144424f59",
+    "decimals": 0,
+    "ticker": "LADBOY",
+    "icon": "https://spectrum.fi/logos/cardano/62856bccda5241086f16449a1a282f0c26e7a54cc0be0566e39474da4c4144424f59.webp",
+    "data": {
+      "policyId": "62856bccda5241086f16449a1a282f0c26e7a54cc0be0566e39474da",
+      "name": "LADBOY",
+      "nameHex": "464c4144424f59"
+    }
+  },
+  {
+    "name": "Shrimpy",
+    "id": "b6ab77757b9e42465a6fbb59f8b4fb4eed7c74f75459f06855afa393536872696d7079",
+    "decimals": 0,
+    "ticker": "Shrimpy",
+    "icon": "https://spectrum.fi/logos/cardano/b6ab77757b9e42465a6fbb59f8b4fb4eed7c74f75459f06855afa393536872696d7079.webp",
+    "data": {
+      "policyId": "b6ab77757b9e42465a6fbb59f8b4fb4eed7c74f75459f06855afa393",
+      "name": "Shrimpy",
+      "nameHex": "47536872696d7079"
+    }
+  },
+  {
+    "name": "Sharky",
+    "id": "5d4d47a78645dc8ae2e290f1a0e9cf6ef4abcfc5fcf59fa5e4a300f6536861726b79",
+    "decimals": 0,
+    "ticker": "Sharky",
+    "icon": "https://spectrum.fi/logos/cardano/5d4d47a78645dc8ae2e290f1a0e9cf6ef4abcfc5fcf59fa5e4a300f6536861726b79.webp",
+    "data": {
+      "policyId": "5d4d47a78645dc8ae2e290f1a0e9cf6ef4abcfc5fcf59fa5e4a300f6",
+      "name": "Sharky",
+      "nameHex": "46536861726b79"
+    }
+  },
+  {
+    "name": "SPEPE",
+    "id": "f5d27a942c427778797be18c4449f952c24ca3c14c8429ea99dc6afe5350455045",
+    "decimals": 0,
+    "ticker": "SPEPE",
+    "icon": "https://spectrum.fi/logos/cardano/f5d27a942c427778797be18c4449f952c24ca3c14c8429ea99dc6afe5350455045.webp",
+    "data": {
+      "policyId": "f5d27a942c427778797be18c4449f952c24ca3c14c8429ea99dc6afe",
+      "name": "SPEPE",
+      "nameHex": "455350455045"
+    }
+  },
+  {
+    "name": "discoin",
+    "id": "5612bee388219c1b76fd527ed0fa5aa1d28652838bcab4ee4ee63197446973636f696e",
+    "decimals": 8,
+    "ticker": "DIS",
+    "icon": "https://spectrum.fi/logos/cardano/5612bee388219c1b76fd527ed0fa5aa1d28652838bcab4ee4ee63197446973636f696e.webp",
+    "data": {
+      "policyId": "5612bee388219c1b76fd527ed0fa5aa1d28652838bcab4ee4ee63197",
+      "name": "Discoin",
+      "nameHex": "47446973636f696e"
+    }
+  },
+  {
+    "name": "Snake",
+    "id": "b840658ec06047148824139ab974aadc9289983319b029835f732e90536e616b65",
+    "decimals": 0,
+    "ticker": "Snake",
+    "icon": "https://spectrum.fi/logos/cardano/b840658ec06047148824139ab974aadc9289983319b029835f732e90536e616b65.webp",
+    "data": {
+      "policyId": "b840658ec06047148824139ab974aadc9289983319b029835f732e90",
+      "name": "Snake",
+      "nameHex": "45536e616b65"
+    }
+  },
+  {
+    "name": "$CARACAL",
+    "id": "5641dfe4eb816e3fb541e1fc2aa1c105313d57742bc6e825e44d0614244341524143414c",
+    "decimals": 0,
+    "ticker": "$CARACAL",
+    "icon": "https://spectrum.fi/logos/cardano/5641dfe4eb816e3fb541e1fc2aa1c105313d57742bc6e825e44d0614244341524143414c.webp",
+    "data": {
+      "policyId": "5641dfe4eb816e3fb541e1fc2aa1c105313d57742bc6e825e44d0614",
+      "name": "$CARACAL",
+      "nameHex": "48244341524143414c"
+    }
+  },
+  {
+    "name": "tomato pepe coin",
+    "id": "ee6b6507348dcaf2d425238981ddec9a0e1d8dc484f67851908cda8e746f6d61746f207065706520636f696e",
+    "decimals": 0,
+    "ticker": "tomato pepe coin",
+    "icon": "https://spectrum.fi/logos/cardano/ee6b6507348dcaf2d425238981ddec9a0e1d8dc484f67851908cda8e746f6d61746f207065706520636f696e.webp",
+    "data": {
+      "policyId": "ee6b6507348dcaf2d425238981ddec9a0e1d8dc484f67851908cda8e",
+      "name": "tomato pepe coin",
+      "nameHex": "50746f6d61746f207065706520636f696e"
+    }
+  },
+  {
+    "name": "Punk",
+    "id": "e9c325377893adbac4f511a19e1c58956572e27812289553850b981250756e6b",
+    "decimals": 0,
+    "ticker": "Punk",
+    "icon": "https://spectrum.fi/logos/cardano/e9c325377893adbac4f511a19e1c58956572e27812289553850b981250756e6b.webp",
+    "data": {
+      "policyId": "e9c325377893adbac4f511a19e1c58956572e27812289553850b9812",
+      "name": "Punk",
+      "nameHex": "4450756e6b"
+    }
+  },
+  {
+    "name": "sSTONE",
+    "id": "ffad4fbe547393bf41cdd74f43f5e33cf6eb2a4c921118df6fb55ce67353544f4e45",
+    "decimals": 0,
+    "ticker": "sSTONE",
+    "icon": "https://spectrum.fi/logos/cardano/ffad4fbe547393bf41cdd74f43f5e33cf6eb2a4c921118df6fb55ce67353544f4e45.webp",
+    "data": {
+      "policyId": "ffad4fbe547393bf41cdd74f43f5e33cf6eb2a4c921118df6fb55ce6",
+      "name": "sSTONE",
+      "nameHex": "467353544f4e45"
+    }
+  },
+  {
+    "name": "Butman Coin Ada",
+    "id": "031979d07c28d4ec37591dfc18a643a3398103baa78b883fc543a8f14275746d616e20436f696e20416461",
+    "decimals": 0,
+    "ticker": "Butman Coin Ada",
+    "icon": "https://spectrum.fi/logos/cardano/031979d07c28d4ec37591dfc18a643a3398103baa78b883fc543a8f14275746d616e20436f696e20416461.webp",
+    "data": {
+      "policyId": "031979d07c28d4ec37591dfc18a643a3398103baa78b883fc543a8f1",
+      "name": "Butman Coin Ada",
+      "nameHex": "4f4275746d616e20436f696e20416461"
+    }
+  },
+  {
+    "name": "Shnek Coin Ada",
+    "id": "f08580ab0ae8643aa86eaf98b31adfcdb254963bfb479c2b9a4f0c4953686e656b20436f696e20416461",
+    "decimals": 0,
+    "ticker": "Shnek Coin Ada",
+    "icon": "https://spectrum.fi/logos/cardano/f08580ab0ae8643aa86eaf98b31adfcdb254963bfb479c2b9a4f0c4953686e656b20436f696e20416461.webp",
+    "data": {
+      "policyId": "f08580ab0ae8643aa86eaf98b31adfcdb254963bfb479c2b9a4f0c49",
+      "name": "Shnek Coin Ada",
+      "nameHex": "4e53686e656b20436f696e20416461"
+    }
+  },
+  {
+    "name": "Jump Doggy",
+    "id": "8a52e3c4aa99f39ffef057adb85d5706ecb3f23c49a36076c43f18594a756d7020446f676779",
+    "decimals": 0,
+    "ticker": "Jump Doggy",
+    "icon": "https://spectrum.fi/logos/cardano/8a52e3c4aa99f39ffef057adb85d5706ecb3f23c49a36076c43f18594a756d7020446f676779.webp",
+    "data": {
+      "policyId": "8a52e3c4aa99f39ffef057adb85d5706ecb3f23c49a36076c43f1859",
+      "name": "Jump Doggy",
+      "nameHex": "4a4a756d7020446f676779"
+    }
+  },
+  {
+    "name": "Revuto",
+    "id": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c13586452455655",
+    "decimals": 8,
+    "ticker": "REVU",
+    "icon": "https://spectrum.fi/logos/cardano/94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c13586452455655.webp",
+    "data": {
+      "policyId": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864",
+      "name": "REVU",
+      "nameHex": "4452455655"
+    }
+  },
+  {
+    "name": "HYDRA",
+    "id": "c8764cd53485b29f6ad94bf69f399ac72903b4df1e70d6a119d6596e4859445241",
+    "decimals": 0,
+    "ticker": "HYDRA",
+    "icon": "https://spectrum.fi/logos/cardano/c8764cd53485b29f6ad94bf69f399ac72903b4df1e70d6a119d6596e4859445241.webp",
+    "data": {
+      "policyId": "c8764cd53485b29f6ad94bf69f399ac72903b4df1e70d6a119d6596e",
+      "name": "HYDRA",
+      "nameHex": "454859445241"
+    }
+  },
+  {
+    "name": "SingularityNet AGIX Token",
+    "id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+    "decimals": 8,
+    "ticker": "AGIX",
+    "icon": "https://spectrum.fi/logos/cardano/f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958.webp",
+    "data": {
+      "policyId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+      "name": "AGIX",
+      "nameHex": "4441474958"
+    }
+  },
+  {
+    "name": "XDIAMOND",
+    "id": "b6798a74fb7441ef5f7af1ff4ea6150bbb7aaeb0aca0113e558592f6584449414d4f4e44",
+    "decimals": 0,
+    "ticker": "XDIAMOND",
+    "icon": "https://spectrum.fi/logos/cardano/b6798a74fb7441ef5f7af1ff4ea6150bbb7aaeb0aca0113e558592f6584449414d4f4e44.webp",
+    "data": {
+      "policyId": "b6798a74fb7441ef5f7af1ff4ea6150bbb7aaeb0aca0113e558592f6",
+      "name": "XDIAMOND",
+      "nameHex": "48584449414d4f4e44"
+    }
+  },
+  {
+    "name": "HOSKY Token",
+    "id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+    "decimals": 0,
+    "ticker": "HOSKY",
+    "icon": "https://spectrum.fi/logos/cardano/a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59.webp",
+    "data": {
+      "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
+      "name": "HOSKY",
+      "nameHex": "45484f534b59"
+    }
+  },
+  {
+    "name": "Bankercoin",
+    "id": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+    "decimals": 0,
+    "ticker": "BANK",
+    "icon": "https://spectrum.fi/logos/cardano/2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b.webp",
+    "data": {
+      "policyId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
+      "name": "BANK",
+      "nameHex": "4442414e4b"
+    }
+  },
+  {
+    "name": "Orcfax Token",
+    "id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
+    "decimals": 6,
+    "ticker": "FACT",
+    "icon": "https://spectrum.fi/logos/cardano/a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e.webp",
+    "data": {
+      "policyId": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e51",
+      "name": "orcfaxtoken",
+      "nameHex": "4b6f7263666178746f6b656e"
+    }
+  },
+  {
+    "name": "NEWM",
+    "id": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
+    "decimals": 6,
+    "ticker": "NEWM",
+    "icon": "https://spectrum.fi/logos/cardano/682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d.webp",
+    "data": {
+      "policyId": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63",
+      "name": "NEWM",
+      "nameHex": "444e45574d"
+    }
+  },
+  {
+    "name": "bjorn",
+    "id": "3f1cbcc683db714ead43848b2c02238fcd52f82747ab57d920e152ad626a6f726e",
+    "decimals": 0,
+    "ticker": "bjorn",
+    "icon": "https://spectrum.fi/logos/cardano/3f1cbcc683db714ead43848b2c02238fcd52f82747ab57d920e152ad626a6f726e.webp",
+    "data": {
+      "policyId": "3f1cbcc683db714ead43848b2c02238fcd52f82747ab57d920e152ad",
+      "name": "bjorn",
+      "nameHex": "45626a6f726e"
+    }
+  },
+  {
+    "name": "JELLY",
+    "id": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
+    "decimals": 6,
+    "ticker": "JELLY",
+    "icon": "https://spectrum.fi/logos/cardano/5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59.webp",
+    "data": {
+      "policyId": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa683",
+      "name": "JELLY",
+      "nameHex": "454a454c4c59"
+    }
+  },
+  {
+    "name": "BTN",
+    "id": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
+    "decimals": 6,
+    "ticker": "BTN",
+    "icon": "https://spectrum.fi/logos/cardano/016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e.webp",
+    "data": {
+      "policyId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a4",
+      "name": "BTN",
+      "nameHex": "4342544e"
+    }
+  },
+  {
+    "name": "Cornucopias Token",
+    "id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+    "decimals": 6,
+    "ticker": "COPI",
+    "icon": "https://spectrum.fi/logos/cardano/b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d.webp",
+    "data": {
+      "policyId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
+      "name": "Cornucopias [via ChainPort.io]",
+      "nameHex": "581e436f726e75636f70696173205b76696120436861696e506f72742e696f5d"
+    }
+  },
+  {
+    "name": "Coinecta",
+    "id": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c434e4354",
+    "decimals": 4,
+    "ticker": "CNCT",
+    "icon": "https://spectrum.fi/logos/cardano/c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c434e4354.webp",
+    "data": {
+      "policyId": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c",
+      "name": "CNCT",
+      "nameHex": "44434e4354"
+    }
+  },
+  {
+    "name": "JPG TOKEN",
+    "id": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
+    "decimals": 6,
+    "ticker": "JPG",
+    "icon": "https://spectrum.fi/logos/cardano/681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047.webp",
+    "data": {
+      "policyId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
+      "name": "JPG",
+      "nameHex": "434a5047"
+    }
+  },
+  {
+    "name": "Bubble",
+    "id": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
+    "decimals": 6,
+    "ticker": "BUBBLE",
+    "icon": "https://spectrum.fi/logos/cardano/4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65.webp",
+    "data": {
+      "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
+      "name": "Bubble",
+      "nameHex": "46427562626c65"
+    }
+  },
+  {
+    "name": "USDC",
+    "id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534443",
+    "decimals": 8,
+    "ticker": "USDC",
+    "icon": "https://spectrum.fi/logos/cardano/25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534443.webp",
+    "data": {
+      "policyId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+      "name": "USDC",
+      "nameHex": "4455534443"
+    }
+  },
+  {
+    "name": "V1TUNA",
+    "id": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a54554e41",
+    "decimals": 8,
+    "ticker": "V1TUNA",
+    "icon": "https://spectrum.fi/logos/cardano/279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a54554e41.webp",
+    "data": {
+      "policyId": "279f842c33eed9054b9e3c70cd6a3b32298259c24b78b895cb41d91a",
+      "name": "TUNA",
+      "nameHex": "4454554e41"
+    }
+  },
+  {
+    "name": "MentalHealth",
+    "id": "bf17b049bbde1173fee09f19f759ccf8ff09074ae9717a925c41d2ca4d656e74616c4865616c7468",
+    "decimals": 0,
+    "ticker": "MHEALTH",
+    "icon": "https://spectrum.fi/logos/cardano/bf17b049bbde1173fee09f19f759ccf8ff09074ae9717a925c41d2ca4d656e74616c4865616c7468.webp",
+    "data": {
+      "policyId": "bf17b049bbde1173fee09f19f759ccf8ff09074ae9717a925c41d2ca",
+      "name": "MentalHealth",
+      "nameHex": "4c4d656e74616c4865616c7468"
+    }
+  },
+  {
+    "name": "Angels",
+    "id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+    "decimals": 6,
+    "ticker": "ANGELS",
+    "icon": "https://spectrum.fi/logos/cardano/285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53.webp",
+    "data": {
+      "policyId": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da",
+      "name": "ANGELS",
+      "nameHex": "46414e47454c53"
+    }
+  },
+  {
+    "name": "iETH",
+    "id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+    "decimals": 6,
+    "ticker": "iETH",
+    "icon": "https://spectrum.fi/logos/cardano/f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448.webp",
+    "data": {
+      "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+      "name": "iETH",
+      "nameHex": "4469455448"
+    }
+  },
+  {
+    "name": "STRIKE",
+    "id": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+    "decimals": 6,
+    "ticker": "STRIKE",
+    "icon": "https://spectrum.fi/logos/cardano/f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45.webp",
+    "data": {
+      "policyId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
+      "name": "STRIKE",
+      "nameHex": "46535452494b45"
+    }
+  },
+  {
+    "name": "iUSD",
+    "id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+    "decimals": 6,
+    "ticker": "iUSD",
+    "icon": "https://spectrum.fi/logos/cardano/f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344.webp",
+    "data": {
+      "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+      "name": "iUSD",
+      "nameHex": "4469555344"
+    }
+  },
+  {
+    "name": "SUNDAE",
+    "id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+    "decimals": 6,
+    "ticker": "SUNDAE",
+    "icon": "https://spectrum.fi/logos/cardano/9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145.webp",
+    "data": {
+      "policyId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d77",
+      "name": "SUNDAE",
+      "nameHex": "4653554e444145"
+    }
+  },
+  {
+    "name": "XRAY",
+    "id": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159",
+    "decimals": 6,
+    "ticker": "XRAY",
+    "icon": "https://spectrum.fi/logos/cardano/86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159.webp",
+    "data": {
+      "policyId": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c143",
+      "name": "XRAY",
+      "nameHex": "4458524159"
+    }
+  },
+  {
+    "name": "Cardano Crocs Club Coin",
+    "id": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
+    "decimals": 0,
+    "ticker": "C4",
+    "icon": "https://spectrum.fi/logos/cardano/a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334.webp",
+    "data": {
+      "policyId": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939",
+      "name": "C4",
+      "nameHex": "424334"
+    }
+  },
+  {
+    "name": "ayerF",
+    "id": "879ea9b85bb188a88c0010e7576b0debb8afdb9c3c9766f332a2c2c36179657246",
+    "decimals": 0,
+    "ticker": "ayerF",
+    "icon": "https://spectrum.fi/logos/cardano/879ea9b85bb188a88c0010e7576b0debb8afdb9c3c9766f332a2c2c36179657246.webp",
+    "data": {
+      "policyId": "879ea9b85bb188a88c0010e7576b0debb8afdb9c3c9766f332a2c2c3",
+      "name": "ayerF",
+      "nameHex": "456179657246"
+    }
+  },
+  {
+    "name": "OptionFlowToken",
+    "id": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054",
+    "decimals": 6,
+    "ticker": "OPT",
+    "icon": "https://spectrum.fi/logos/cardano/1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054.webp",
+    "data": {
+      "policyId": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be",
+      "name": "OPT",
+      "nameHex": "434f5054"
+    }
+  },
+  {
+    "name": "USDM",
+    "id": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+    "decimals": 6,
+    "ticker": "USDM",
+    "icon": "https://spectrum.fi/logos/cardano/c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d.webp",
+    "data": {
+      "policyId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad",
+      "name": "\u0000\u0014�\u0010USDM",
+      "nameHex": "480014df105553444d"
+    }
+  },
+  {
+    "name": "Atome",
+    "id": "490fe9dda33fc7e30d8cf6198085b67f32868d6cc921f9ed1f92e6f341746f6d65",
+    "decimals": 0,
+    "ticker": "ATOME",
+    "icon": "https://spectrum.fi/logos/cardano/490fe9dda33fc7e30d8cf6198085b67f32868d6cc921f9ed1f92e6f341746f6d65.webp",
+    "data": {
+      "policyId": "490fe9dda33fc7e30d8cf6198085b67f32868d6cc921f9ed1f92e6f3",
+      "name": "Atome",
+      "nameHex": "4541746f6d65"
+    }
+  },
+  {
+    "name": "ENCOINS utility token",
+    "id": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+    "decimals": 6,
+    "ticker": "ENCS",
+    "icon": "https://spectrum.fi/logos/cardano/9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353.webp",
+    "data": {
+      "policyId": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96",
+      "name": "ENCS",
+      "nameHex": "44454e4353"
+    }
+  },
+  {
+    "name": "RICK",
+    "id": "0781fa2bcf700946372e8847384aca521f903ee72b7e2cefe33c3f445249434b",
+    "decimals": 0,
+    "ticker": "RICK",
+    "icon": "https://spectrum.fi/logos/cardano/0781fa2bcf700946372e8847384aca521f903ee72b7e2cefe33c3f445249434b.webp",
+    "data": {
+      "policyId": "0781fa2bcf700946372e8847384aca521f903ee72b7e2cefe33c3f44",
+      "name": "RICK",
+      "nameHex": "445249434b"
+    }
+  },
+  {
+    "name": "Tamagotch*i",
+    "id": "8314fb4f711e29b0685bd6225a59c6e1190d8fc43419e5956795f02254616d61676f7463682a69",
+    "decimals": 0,
+    "ticker": "Tamagotch*i",
+    "icon": "https://spectrum.fi/logos/cardano/8314fb4f711e29b0685bd6225a59c6e1190d8fc43419e5956795f02254616d61676f7463682a69.webp",
+    "data": {
+      "policyId": "8314fb4f711e29b0685bd6225a59c6e1190d8fc43419e5956795f022",
+      "name": "Tamagotch*i",
+      "nameHex": "4b54616d61676f7463682a69"
+    }
+  },
+  {
+    "name": "Yoyo",
+    "id": "cf03caada14cf269db602b5b89582acb39a087012b0a3c612277adcd596f796f",
+    "decimals": 0,
+    "ticker": "Yoyo",
+    "icon": "https://spectrum.fihttps://gateway.pinata.cloud/ipfs/QmVsQBxABP2npdEN4tZNd4wpsjHkDJ3AD8nzcGdoeabHa5",
+    "data": {
+      "policyId": "cf03caada14cf269db602b5b89582acb39a087012b0a3c612277adcd",
+      "name": "Yoyo",
+      "nameHex": "44596f796f"
+    }
+  },
+  {
+    "name": "rsSPF",
+    "id": "bb99f13b062933c326f552db5325355ee2ff3cc795fc2e4ee3b173267273535046",
+    "decimals": 6,
+    "ticker": "rsSPF",
+    "icon": "https://spectrum.fi/logos/cardano/bb99f13b062933c326f552db5325355ee2ff3cc795fc2e4ee3b173267273535046.webp",
+    "data": {
+      "policyId": "bb99f13b062933c326f552db5325355ee2ff3cc795fc2e4ee3b17326",
+      "name": "rsSPF",
+      "nameHex": "457273535046"
+    }
+  },
+  {
+    "name": "TeddySwap",
+    "id": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f54454459",
+    "decimals": 6,
+    "ticker": "TEDY",
+    "icon": "https://spectrum.fi/logos/cardano/f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f54454459.webp",
+    "data": {
+      "policyId": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f",
+      "name": "TEDY",
+      "nameHex": "4454454459"
+    }
+  },
+  {
+    "name": "Volume",
+    "id": "8d94085182fb206c28850f194defe748e455a104d5ff7466d90f537c566f6c756d65",
+    "decimals": 0,
+    "ticker": "Volume",
+    "icon": "https://spectrum.fi/logos/cardano/8d94085182fb206c28850f194defe748e455a104d5ff7466d90f537c566f6c756d65.webp",
+    "data": {
+      "policyId": "8d94085182fb206c28850f194defe748e455a104d5ff7466d90f537c",
+      "name": "Volume",
+      "nameHex": "46566f6c756d65"
+    }
+  }
+]
